@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate coder with motivation to create<br><br>At least a cup of coffee per 20 lines of code
+A passionate coder with motivation to create<br><br>At least a cup of coffee per 20 lines of code ☕
 
 
 # 💻 Tech Stack:
